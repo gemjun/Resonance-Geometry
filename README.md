@@ -1,5 +1,9 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<video width="1200" height="475" controls autoplay muted loop>
+  <source src="assets/demo.mp4" type="video/mp4">
+  <source src="assets/demo.webm" type="video/webm">
+  您的浏览器不支持视频标签。
+</video>
 </div>
 
 # Run and deploy your AI Studio app
@@ -10,8 +14,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/1XMzMGex5h-Vr8Qsxo0RO6M
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
-
+**Prerequisites:** Node.js
 
 1. Install dependencies:
    `npm install`
