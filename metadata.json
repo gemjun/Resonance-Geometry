@@ -1,0 +1,7 @@
+{
+  "name": "Resonance Geometry",
+  "description": "A 3D rhythm game where you construct neon architecture to the beat of procedurally generated light and sound.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
